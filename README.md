@@ -4,18 +4,20 @@ My main goal with this project was to practice basic commands in Python with a s
 
 I chose this dataset because, during a recent visit to Magic Kingdom, I kept thinking about a similar trip I made with my family in 1993. I wondered how many of the rides were the same. 
 
-I found a dataset at TouringPlans.com that contained information on the attractions, including when each had opened. However, it was incomplete. I created a new dataset with the missing attractions in Google Sheets, download it as a csv, and then add it to the original dataset (https://touringplans.com/walt-disney-world/crowd-calendar#DataSets). I used an official map of Magic Kingdom to corroborate all the current attractions.
+I found a dataset at TouringPlans.com that contained information on the attractions, including when each had opened. However, it was incomplete. I created a new dataset with the missing attractions in Google Sheets, download it as a .csv, and then add it to the original dataset (https://touringplans.com/walt-disney-world/crowd-calendar#DataSets). I used an official map of Magic Kingdom to corroborate all the current attractions.
 
-I analyzed the data in a jupyter notebook. I knew many of the attractions at Magic Kingdom were there in 1993, but I was surprised by how many of them opened in the 70s. I also thought Fantasyland was the oldest part of the park. It does have many rides that date back to Magic Kingdom's opening, but it has introduced many new attractions; although, most of the new offerings are not rides, but opportunities to meet Disney's characters, like . 
+I analyzed the data in a jupyter notebook. I knew many of the attractions at Magic Kingdom were there in 1993, but I was surprised by how many of them opened in the 70s. I also thought Fantasyland was the oldest part of the park. It does have many rides that date back to Magic Kingdom's opening, but it has introduced many new attractions; although, most of the new offerings are not rides, but opportunities to meet Disney's characters.
 
 ### New skills & growth
 
-This is the first time I use Python for a project. I
+This is the first time I use Python for a project. It was hard, but I love it! 
+
+It was also the first time I did a beeswarm plot. I used RawGraphs to create it and then edit it in Illustrator. Could have been prettier, but I didn't have more time. 
 
 Also, although I had worked with ai2html before, I had never done it using my own laptop (not the one from my former employer with all the fonts and special setup).
 
 ### Regrets
 If I had more time... 
-- Better graphics. The fonts I chose in Illustrator disappeared when I ran ai2html. 
+- Better graphics. The fonts I chose in Illustrator disappeared when I ran ai2html. I wanted to include some photos of the attractions and add the year each was opened to the maps, but there was not enough time! 
 - It would be better to have the maps side by side for the desktop version of the story.
-- Polish the text. I wrote pretty fast because I spent most of my time on the analysis.
+- Polish the text. I wrote it pretty fast because I spent most of my time on the analysis.
