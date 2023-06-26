@@ -1,0 +1,39 @@
+,code,name,short_name,land,opened_on,duration,average_wait_per_hundred,park_code,year,age
+70,MK01,Space Mountain,Space Mountain,Tomorrowland,1975-01-15,10.0,3.0,MK,1970-01-01 00:00:00.000001975,48
+71,MK02,Buzz Lightyear's Space Ranger Spin,Buzz Lightyear,Tomorrowland,1998-10-07,4.5,3.0,MK,1970-01-01 00:00:00.000001998,25
+72,MK03,Big Thunder Mountain Railroad,Big Thunder Mtn,Frontierland,1980-09-23,7.0,2.5,MK,1970-01-01 00:00:00.000001980,43
+74,MK05,Peter Pan's Flight,Peter Pan's Flight,Fantasyland,1971-10-01,3.0,5.5,MK,1970-01-01 00:00:00.000001971,52
+75,MK06,The Many Adventures of Winnie the Pooh,Winnie the Pooh,Fantasyland,1999-06-05,4.0,4.0,MK,1970-01-01 00:00:00.000001999,24
+76,MK13,Jungle Cruise,Jungle Cruise,Adventureland,1971-10-01,8.0,3.5,MK,1970-01-01 00:00:00.000001971,52
+77,MK141,Seven Dwarfs Mine Train,7 Dwarfs Train,Fantasyland,2014-05-28,3.0,5.0,MK,1970-01-01 00:00:00.000002014,9
+78,MK142,Under the Sea ~ Journey of the Little Mermaid,Under the Sea,Fantasyland,2012-12-06,7.0,3.0,MK,1970-01-01 00:00:00.000002012,11
+79,MK15,The Magic Carpets of Aladdin,Magic Carpets,Adventureland,2001-05-23,1.5,16.0,MK,1970-01-01 00:00:00.000002001,22
+80,MK16,Pirates of the Caribbean,Pirates of Caribbean,Adventureland,1973-12-17,7.5,1.5,MK,1970-01-01 00:00:00.000001973,50
+81,MK177,See Cinderella and a Visiting Princess at Princess Fairytale Hall,Princess Hall: Cinderella,Fantasyland,2016-11-24,10.0,,MK,1970-01-01 00:00:00.000002016,7
+82,MK178,See Princess Tiana and a Visiting Princess at Princess Fairytale Hall,Princess Hall: Tiana,Fantasyland,2016-11-24,10.0,,MK,1970-01-01 00:00:00.000002016,7
+83,MK23,The Haunted Mansion,Haunted Mansion,Liberty Square,1971-10-01,10.0,2.5,MK,1970-01-01 00:00:00.000001971,52
+84,MK26,Prince Charming Regal Carrousel,Regal Carrousel,Fantasyland,1971-10-01,2.0,5.0,MK,1970-01-01 00:00:00.000001971,52
+85,MK27,Dumbo the Flying Elephant,Dumbo,Fantasyland,1971-10-01,1.5,10.0,MK,1970-01-01 00:00:00.000001971,52
+86,MK28,"""it's a small world""",it's a small world,Fantasyland,1971-10-01,14.0,3.5,MK,1970-01-01 00:00:00.000001971,52
+87,MK29,Mad Tea Party,Mad Tea Party,Fantasyland,1971-10-01,1.5,7.5,MK,1970-01-01 00:00:00.000001971,52
+88,MK30,Mickey's PhilharMagic,PhilharMagic,Fantasyland,2003-10-08,12.0,,MK,1970-01-01 00:00:00.000002003,20
+89,MK34,The Barnstormer,Barnstormer,Fantasyland,1996-10-01,2.0,7.0,MK,1970-01-01 00:00:00.000001996,27
+90,MK39,Astro Orbiter,Astro Orbiter,Tomorrowland,1995-02-25,1.5,13.5,MK,1970-01-01 00:00:00.000001995,28
+91,MK40,"Monsters, Inc. Laugh Floor",Laugh Floor,Tomorrowland,2007-04-02,15.0,,MK,1970-01-01 00:00:00.000002007,16
+92,MK43,Tomorrowland Speedway,Tom'land Speedway,Tomorrowland,1971-10-01,4.25,4.5,MK,1970-01-01 00:00:00.000001971,52
+93,MK44,Tomorrowland Transit Authority PeopleMover,PeopleMover,Tomorrowland,1975-07-01,10.0,1.5,MK,1970-01-01 00:00:00.000001975,48
+94,MK96,See Mickey at Town Square Theater,Town Sq Mickey,"Main Street, U.S.A.",2011-04-01,3.0,,MK,1970-01-01 00:00:00.000002011,12
+0,MK143,Walt Disney's Enchanted Tiki Room,¡Enchanted Tiki Room,Adventureland,1971-10-01,15.5,,MK,1970-01-01 00:00:00.000001971,52
+1,MK144,Swiss Family Treehouse,Swiss Family Treehouse,Adventureland,1971-10-01,13.0,7.0,MK,1970-01-01 00:00:00.000001971,52
+2,MK145,Walt Disney World Railroad,Walt Disney World Railroad,"Main Street, U.S.A.",1971-10-01,20.0,8.0,MK,1970-01-01 00:00:00.000001971,52
+3,MK146,Country Bear Jamboree,Country Bear Jamboree,Frontierland,1971-10-01,10.0,,MK,1970-01-01 00:00:00.000001971,52
+4,MK147,Frontierland Shootin' Arcade,Frontierland Shootin' Arcade,Frontierland,1971-10-01,3.0,,MK,1970-01-01 00:00:00.000001971,52
+5,MK148,Tom Sawyer Island,Tom Sawyer Island,Frontierland,1973-05-20,30.0,,MK,1970-01-01 00:00:00.000001973,50
+6,MK149,The Hall of Presidents,The Hall of Presidents,Liberty Square,1971-10-01,23.0,,MK,1970-01-01 00:00:00.000001971,52
+7,MK150,Liberty Square Riverboat,Liberty Square Riverboat,Liberty Square,1973-05-20,17.0,,MK,1970-01-01 00:00:00.000001973,50
+8,MK151,TRON Lightcycle / Run,TRON Lightcycle / Run,Tomorrowland,2023-04-04,1.0,3.5,MK,1970-01-01 00:00:00.000002023,0
+9,MK152,Walt Disney's Carousel of Progress,Carousel of Progress,Tomorrowland,1975-01-15,21.0,,MK,1970-01-01 00:00:00.000001975,48
+10,MK153,Meet Ariel in Her Grotto,Ariel's Grotto,Fantasyland,2012-12-06,3.0,,MK,1970-01-01 00:00:00.000002012,11
+11,MK154,Enchanted Tales with Belle,Enchanted Tales with Belle,Fantasyland,2012-12-06,20.0,,MK,1970-01-01 00:00:00.000002012,11
+12,MK155,Pete's Silly Side Show,Pete's Silly Side Show,Fantasyland,2012-10-04,7.0,,MK,1970-01-01 00:00:00.000002012,11
+13,MK156,Meet Merida at Fairytale Garden,Meet Merida ,Fantasyland,2012-05-18,15.0,,MK,1970-01-01 00:00:00.000002012,11
